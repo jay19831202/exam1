@@ -34,3 +34,8 @@ print("圓形的圓周 : ", 半徑.getPerimeter())
 print("圓形的面積 : ", 半徑.getArea())
 半徑.setRadius(10)
 print("圓形的直徑 : ", 半徑.getDiameter())
+
+
+
+
+
